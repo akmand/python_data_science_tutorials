@@ -1,6 +1,8 @@
 # Python Basics (PB) Tutorial Series
 
-Welcome to the Python Basics Tutorial Series! This repository contains a collection of Jupyter Notebooks designed to help you learn the fundamental concepts and libraries of Python programming. Each notebook focuses on a specific topic and provides a hands-on approach to learning through code examples and exercises.
+Welcome to the Python Basics Tutorial Series! This repository contains a collection of Jupyter notebooks designed to help you learn the fundamental concepts and libraries of Python programming. These notebooks were written by yours truly, David Akman, and are my own work for the most part. 
+
+Each notebook focuses on a specific topic and provides a hands-on approach to learning through code examples and exercises.
 
 ## Notebooks Overview
 
