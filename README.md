@@ -28,13 +28,13 @@ Each notebook focuses on a specific topic and provides a hands-on approach to le
    - **Seaborn for Statistical Plots**: Explore Seaborn, a Python visualisation library based on Matplotlib. Learn how to create attractive and informative statistical graphics.
 
 8. **PB8_python_vs_r.ipynb**
-   - **Python vs. R**: Compare Python and R, two popular languages for data analysis. Understand the strengths and weaknesses of each and see how to perform similar tasks in both languages.
+   - **Python vs. R**: Compare Python and R, two popular languages for data analysis. If you are coming from an R programming background, you should definitely have a look at this tutorial for some key differences between these two languages at a basic level.
 
 ## Getting Started
 
-To get started with these notebooks, you need to have Jupyter installed on your machine. If you haven't installed Jupyter yet, you can do so by following the instructions on the [Jupyter website](https://jupyter.org/install).
+To get started with these notebooks, you need to have Jupyter notebook installed on your machine. If you haven't installed Jupyter notebook yet, you can do so by following the instructions on the [Jupyter website](https://jupyter.org/install).
 
-Once Jupyter is installed, you can clone this repository and open the notebooks in Jupyter Notebook or JupyterLab:
+Once Jupyter notebook is installed, you can clone this repository and open the notebooks in Jupyter Notebook or JupyterLab:
 
 ```sh
 git clone <repository-url>
