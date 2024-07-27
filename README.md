@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+
 # Python Basics (PB) Tutorial Series
 
 Welcome to the Python Basics Tutorial Series! This repository contains a collection of Jupyter notebooks designed to help you learn the fundamental concepts and modules of Python programming together with Python's Data Science stack. These notebooks were written by yours truly, David Akman, and are my own work for the most part. They have been tested with Python 3.11.
